@@ -26,6 +26,7 @@
 	<img src="https://cyber.dabamos.de/88x31/anythingbut.gif">
 	<img src="https://cyber.dabamos.de/88x31/bitwarden.gif">
 	<img src="https://cyber.dabamos.de/88x31/cssdif.gif">
+	<a href="https://dimden.dev/"><img src="https://dimden.dev/services/images/88x31.gif"></a>
 </p>
 
 <p align="middle">
