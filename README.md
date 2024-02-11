@@ -26,6 +26,7 @@
 	<img src="https://cyber.dabamos.de/88x31/cssdif.gif">
 	<img src="https://anlucas.neocities.org/drpepper.gif">
 	<a href="https://dimden.dev/"><img src="https://dimden.dev/services/images/88x31.gif"></a>
+	<a href="https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT?si=6v0MH531S4GDkDPpf_oKfQ"><img src="https://capstasher.neocities.org/88x31Buttons/banshee.gif"></a>
 </p>
 
 <p align="middle">
