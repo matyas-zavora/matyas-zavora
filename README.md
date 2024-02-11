@@ -27,5 +27,6 @@
 	<img src="https://cyber.dabamos.de/88x31/bitwarden.gif">
 	<img src="https://cyber.dabamos.de/88x31/cssdif.gif">
 </p>
-*<p align="middle">Keep on, keeping on!*</p>
+
+<p align="middle">*Keep on, keeping on!*</p>
 <p align="middle"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJ4OWRwcnFwMGZ4c3FxNnVodXV6eGljOGo0YzJzaHdpNzE5NjRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UvVukMYygtu5XYOyes/giphy.gif"></p>
