@@ -9,9 +9,9 @@
 - :czech_republic: I'm currently learning **Nette**
 
 <p align="middle">
-	<img src="https://cyber.dabamos.de/88x31/evangelion.gif">
+	<a href="https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"><img src="https://cyber.dabamos.de/88x31/evangelion.gif"></a>
 	<a href="#"><img src="https://cyber.dabamos.de/88x31/github-check.gif"></a>
-	<img src="https://cyber.dabamos.de/88x31/half-life.gif">
+	<a href="https://store.steampowered.com/app/70/HalfLife/"><img src="https://cyber.dabamos.de/88x31/half-life.gif"></a>
 	<img src="https://cyber.dabamos.de/88x31/hatems.gif">
 	<img src="https://cyber.dabamos.de/88x31/imissxp.gif">
 	<img src="https://cyber.dabamos.de/88x31/linux_powered.gif">
