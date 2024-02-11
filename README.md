@@ -9,32 +9,32 @@
 - :czech_republic: I'm currently learning **Nette**
 
 <p align="middle">
-	<a href="https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"><img src="https://cyber.dabamos.de/88x31/evangelion.gif"></a>
+	<a href="https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion" target=”_blank”><img src="https://cyber.dabamos.de/88x31/evangelion.gif"></a>
 	<a href="#"><img src="https://cyber.dabamos.de/88x31/github-check.gif"></a>
-	<a href="https://store.steampowered.com/app/70/HalfLife/"><img src="https://cyber.dabamos.de/88x31/half-life.gif"></a>
+	<a href="https://store.steampowered.com/app/70/HalfLife/" target=”_blank”><img src="https://cyber.dabamos.de/88x31/half-life.gif"></a>
 	<img src="https://cyber.dabamos.de/88x31/hatems.gif">
 	<img src="https://cyber.dabamos.de/88x31/imissxp.gif">
 	<img src="https://cyber.dabamos.de/88x31/linux_powered.gif">
 	<img src="https://cyber.dabamos.de/88x31/mysql4.gif">
-	<a href="https://neocities.org"><img src="https://cyber.dabamos.de/88x31/neocities3.gif"></a>
+	<a href="https://neocities.org" target=”_blank”><img src="https://cyber.dabamos.de/88x31/neocities3.gif"></a>
 	<img src="https://cyber.dabamos.de/88x31/nft.gif">
-	<a href="https://getpaint.net"><img src="https://cyber.dabamos.de/88x31/paintnet.gif"></a>
+	<a href="https://getpaint.net" target=”_blank”><img src="https://cyber.dabamos.de/88x31/paintnet.gif"></a>
 	<img src="https://cyber.dabamos.de/88x31/php4_88x31.gif">
 	<img src="https://cyber.dabamos.de/88x31/proxmox.gif">
 	<img src="https://cyber.dabamos.de/88x31/anythingbut.gif">
 	<img src="https://cyber.dabamos.de/88x31/bitwarden.gif">
 	<img src="https://cyber.dabamos.de/88x31/cssdif.gif">
 	<img src="https://anlucas.neocities.org/drpepper.gif">
-	<a href="https://dimden.dev/"><img src="https://dimden.dev/services/images/88x31.gif"></a>
-	<a href="https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT?si=6v0MH531S4GDkDPpf_oKfQ"><img src="https://capstasher.neocities.org/88x31Buttons/banshee.gif"></a>
+	<a href="https://dimden.dev/" target=”_blank”><img src="https://dimden.dev/services/images/88x31.gif"></a>
+	<a href="https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT?si=6v0MH531S4GDkDPpf_oKfQ" target=”_blank”><img src="https://capstasher.neocities.org/88x31Buttons/banshee.gif"></a>
 </p>
 
 <p align="middle">
 	<h3>My Projects:</h3>
-	<a href="https://github.com/matyas-zavora/aplha-2"><img src="https://i.imgur.com/ScRkrUB.png"></a>
-	<a href="https://github.com/matyas-zavora/aplha-3"><img src="https://i.imgur.com/ZlOFKrb.png"></a>
-	<a href="https://github.com/matyas-zavora/aplha-4"><img src="https://i.imgur.com/6PwuXPw.png"></a>
-	<a href="https://github.com/Prochyxd/MojeRande"><img src="https://i.imgur.com/BUcUbaH.png"></a>
+	<a href="https://github.com/matyas-zavora/aplha-2" target=”_blank”><img src="https://i.imgur.com/ScRkrUB.png"></a>
+	<a href="https://github.com/matyas-zavora/aplha-3" target=”_blank”><img src="https://i.imgur.com/ZlOFKrb.png"></a>
+	<a href="https://github.com/matyas-zavora/aplha-4" target=”_blank”><img src="https://i.imgur.com/6PwuXPw.png"></a>
+	<a href="https://github.com/Prochyxd/MojeRande" target=”_blank”><img src="https://i.imgur.com/BUcUbaH.png"></a>
 </p>
 
 
