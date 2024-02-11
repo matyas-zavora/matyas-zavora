@@ -27,9 +27,7 @@
 	<img src="https://anlucas.neocities.org/drpepper.gif">
 	<a href="https://dimden.dev/" target=”_blank”><img src="https://dimden.dev/services/images/88x31.gif"></a>
 	<a href="https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT?si=6v0MH531S4GDkDPpf_oKfQ" target=”_blank”><img src="https://capstasher.neocities.org/88x31Buttons/banshee.gif"></a>
-</p>
 
-<p align="middle">
 	<h3>My Projects:</h3>
 	<a href="https://github.com/matyas-zavora/aplha-2" target=”_blank”><img src="https://i.imgur.com/ScRkrUB.png"></a>
 	<a href="https://github.com/matyas-zavora/aplha-3" target=”_blank”><img src="https://i.imgur.com/ZlOFKrb.png"></a>
