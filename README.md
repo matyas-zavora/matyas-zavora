@@ -16,9 +16,9 @@
 	<img src="https://cyber.dabamos.de/88x31/imissxp.gif">
 	<img src="https://cyber.dabamos.de/88x31/linux_powered.gif">
 	<img src="https://cyber.dabamos.de/88x31/mysql4.gif">
-	<img src="https://cyber.dabamos.de/88x31/neocities3.gif">
+	<a href="https://neocities.org"><img src="https://cyber.dabamos.de/88x31/neocities3.gif"></a>
 	<img src="https://cyber.dabamos.de/88x31/nft.gif">
-	<img src="https://cyber.dabamos.de/88x31/paintnet.gif">
+	<a href="https://getpaint.net"><img src="https://cyber.dabamos.de/88x31/paintnet.gif"></a>
 	<img src="https://cyber.dabamos.de/88x31/php4_88x31.gif">
 	<img src="https://cyber.dabamos.de/88x31/proxmox.gif">
 	<img src="https://cyber.dabamos.de/88x31/restart.gif">
