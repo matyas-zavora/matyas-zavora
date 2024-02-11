@@ -21,7 +21,6 @@
 	<a href="https://getpaint.net"><img src="https://cyber.dabamos.de/88x31/paintnet.gif"></a>
 	<img src="https://cyber.dabamos.de/88x31/php4_88x31.gif">
 	<img src="https://cyber.dabamos.de/88x31/proxmox.gif">
-	<img src="https://cyber.dabamos.de/88x31/restart.gif">
 	<img src="https://cyber.dabamos.de/88x31/anythingbut.gif">
 	<img src="https://cyber.dabamos.de/88x31/bitwarden.gif">
 	<img src="https://cyber.dabamos.de/88x31/cssdif.gif">
