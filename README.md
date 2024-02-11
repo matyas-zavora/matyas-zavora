@@ -16,7 +16,6 @@
 	<img src="https://cyber.dabamos.de/88x31/imissxp.gif">
 	<img src="https://cyber.dabamos.de/88x31/linux_powered.gif">
 	<img src="https://cyber.dabamos.de/88x31/mysql4.gif">
-	<img src="https://cyber.dabamos.de/88x31/nb-bbbut.gif">
 	<img src="https://cyber.dabamos.de/88x31/neocities3.gif">
 	<img src="https://cyber.dabamos.de/88x31/nft.gif">
 	<img src="https://cyber.dabamos.de/88x31/paintnet.gif">
@@ -26,6 +25,7 @@
 	<img src="https://cyber.dabamos.de/88x31/anythingbut.gif">
 	<img src="https://cyber.dabamos.de/88x31/bitwarden.gif">
 	<img src="https://cyber.dabamos.de/88x31/cssdif.gif">
+	<img src="https://anlucas.neocities.org/drpepper.gif">
 	<a href="https://dimden.dev/"><img src="https://dimden.dev/services/images/88x31.gif"></a>
 </p>
 
