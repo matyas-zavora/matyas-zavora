@@ -15,7 +15,7 @@
 	<img src="https://cyber.dabamos.de/88x31/hatems.gif">
 	<img src="https://cyber.dabamos.de/88x31/imissxp.gif">
 	<img src="https://cyber.dabamos.de/88x31/linux_powered.gif">
-	<img src="https://cyber.dabamos.de/88x31/mysql4.gif">
+	<img src="https://capstasher.neocities.org/88x31Buttons/mysqla.gif">
 	<a href="https://neocities.org" target=”_blank”><img src="https://cyber.dabamos.de/88x31/neocities3.gif"></a>
 	<img src="https://cyber.dabamos.de/88x31/nft.gif">
 	<a href="https://getpaint.net" target=”_blank”><img src="https://cyber.dabamos.de/88x31/paintnet.gif"></a>
